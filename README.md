@@ -14,3 +14,5 @@ MAPS_API_KEY=
 5. Install requirements in `requirements.txt` 
 
 ## Sample Output
+Three roommates are looking for an apartment in Manhattan, two working in Midtown and one in FiDi. The visualization script is set up for this scenario which outputs the following
+![plot](resources/images/test-case.png)
