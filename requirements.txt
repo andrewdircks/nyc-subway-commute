@@ -1,0 +1,7 @@
+numpy
+pandas
+geoplot
+geopandas
+shapely
+matplotlib
+python-dotenv
